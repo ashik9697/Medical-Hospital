@@ -1,0 +1,1069 @@
+ /* 
+  ##Device = Most of the Smartphones Mobiles (galaxy fold)
+  ##Screen = B/w 279px to 319px
+*/
+
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+/* CSS start*/
+.header .navbar-toggler {
+    border: 1px solid #1a9bdc;
+    border-radius: 3px;
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 5px #1a9bdc;
+    background: #1a9bdc;
+}
+.header .navbar-toggler:focus .fa{
+  color: #fff;
+} 
+.header .navbar-toggler .fa{
+    color: #1a9bdc;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+
+/* CSS end*/
+  
+}
+
+
+
+
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+/* CSS start*/
+
+
+/*==============================
+       **top-bar start***
+================================*/
+.top-bar .email {
+    font-size: 10px;
+}
+.top-bar .phone {
+    font-size: 10px;
+    text-align: left;
+    margin: -4px 0px 0px 0px;
+}
+
+.header .navbar-toggler {
+    border: 1px solid #1a9bdc;
+    border-radius: 3px;
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 5px #1a9bdc;
+    background: #1a9bdc;
+}
+.header .navbar-toggler:focus .fa{
+  color: #fff;
+} 
+.header .navbar-toggler .fa{
+    color: #1a9bdc;
+    font-size: 30px;
+    font-weight: 400;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+.header .social-icon {
+    margin: 0px 0px 0px -30px;
+}
+.header .isStuck {
+    width: 75%;
+}
+
+/*==============================
+       **header manu start***
+================================*/
+
+
+
+.banner {
+    padding: 10px 0px;
+}
+.banner-inner {
+    padding: 10px 0px;
+}
+.banner h1 {
+    font-size: 17px;
+    width: 50%;
+    margin: 0px 0px 0px -50px;
+}
+.banner-inner p {
+    width: 55%;
+    font-size: 13px;
+    padding: 5px 0px 0px 0px;
+    margin: 4px 0px 0px -50px;
+}
+.banner-inner .btn-info {
+    padding: 5px 10px;
+    margin: 4px 0px 0px -50px;
+    font-size: 13px;
+}
+
+/*==============================
+       **feature start***
+================================*/
+
+
+
+.feature {
+    padding: 10px 0px;
+}
+.inner-feature {
+    padding: 10px;
+}
+.inner-feature .icon {
+    width: 16%;
+    height: 28%;
+    margin: 0px auto 12px;
+    padding: 17px 0px;
+}
+.inner-feature h2 {
+    font-size: 17px;
+    padding: 10px 0px;
+}
+.inner-feature p {
+    font-size: 13px;
+}
+.professional {
+    padding: 20px 0px 0px 0px;
+}
+.professional .title {
+    padding: 0px 0px 10px;
+}
+.professional .title h1 {
+    font-size: 20px;
+}
+.professional .title p {
+    padding: 5px 0px;
+    font-size: 13px;
+}
+.left-professional {
+    padding: 10px 0px 0px 0px;
+}
+.left-professional .img-icon {
+    padding: 0px 1px;
+    margin: -15px 0px 0px 5px;
+}
+.left-professional h2 {
+    font-size: 20px;
+    margin: 10px 0px 10px 3px;
+}
+.left-professional p {
+    font-size: 13px;
+    margin: 0px 0px 0ox 5px;
+    padding: 0px 0px 0px 5px;
+}
+.img-fluid {
+    max-width: 45%;
+}
+
+/*==============================
+       **fun-facts start***
+================================*/
+
+.fun-facts {
+    padding: 10px 0px;
+}
+.fun-facts .counter {
+    padding: 20px 0px 20px 0px;
+}
+.fun-facts .counter {
+    padding: 20px 0px 20px 20px;
+}
+.fun-facts .counter .img-logo {
+    margin: 0px 44px 0px 0px;
+    width: 12%;
+}
+.fun-facts .counter h1 {
+    font-size: 35px;
+    margin: 0px 40px 10px 0px;
+}
+.fun-facts .counter .img-fluid-line {
+    margin: 0px 38px 0px 0px;
+}
+.fun-facts .counter h6 {
+    font-size: 15px;
+    margin: 5px 0px 0px 78px;
+}
+
+/*==============================
+       **works start***
+================================*/
+
+.works{
+    padding: 15px 0px;
+}
+.title h1 {
+    font-size: 22px;
+    margin: 0px 0px 5px 0px;
+}
+.title p {
+    padding: 2px 0px;
+    font-size: 13px;
+}
+.works-box .img-box{
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+.works-box h5 {
+    font-size: 17px;
+    margin: 5px 0px 5px 0px;
+}
+.works-box h6 {
+    font-size: 12px;
+    margin: 0px 0px 5px 0px;
+}
+.works-box p {
+    padding: 0px 0px;
+    font-size: 13px;
+}
+.title-right h1 {
+    font-size: 22px;
+    margin: 0px 0px 5px 0px;
+}
+.title-right p {
+    padding: 2px 0px;
+    font-size: 13px;
+}
+.work-right p {
+    padding: 10px 0px;
+    font-size: 13px;
+}
+.works-bottom a {
+    padding: 5px 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+}
+
+
+/*==============================
+       **gallery start***
+================================*/
+.gallery {
+    padding: 10px 0px;
+}
+.title {
+    padding: 0px 0px 5px;
+}
+.gallery .title h1 {
+    font-size: 22px;
+}
+.gallery .title p {
+    width: 102%;
+    font-size: 13px;
+}
+.gallery-box {
+    width: 110%;
+}
+.gallery-box .img-fluid {
+    margin: 0px 0px 5px 0px;
+}
+/*==============================
+       **team start***
+================================*/
+.team {
+    padding: 10px 0px;
+}
+.team .title h1 {
+    font-size: 22px;
+}
+.team .title p {
+    font-size: 13px;
+}
+.team-box {
+    padding: 10px 0px 0px 0px;
+}
+.team-box .img-fluid {
+    padding: 0px 35px;
+}
+.team-box h5 {
+    font-size: 15px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box h6 {
+    font-size: 16px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box .fa {
+    font-size: 15px;
+}
+.special-offer {
+    padding: 5px 0px;
+}
+.left-box h1 {
+    font-size: 16px;
+    margin: 2px 0px 0px 0px;
+}
+.right-box .btn-info {
+    padding: 6px 16px;
+    margin: 15px 0px 5px 150px;
+    font-size: 12px;
+}
+/*==============================
+       **about-us start***
+================================*/
+.about-us {
+    padding: 10px 0px;
+}
+.inner-about-us h5 {
+    font-size: 20px;
+    padding: 10px 0px 5px 0px;
+}
+.sub-inner .contact .fa {
+    padding: 10px 0px 0px 0px;
+    font-size: 30px;
+}
+.sub-inner p {
+    margin: 10px 14px;
+    font-size: 13px;
+    padding: 0px 0px 0px 0px;
+    width: 37%;
+}
+.inner-about-us .fa {
+    font-size: 19px;
+    padding: 10px 25px 15px 0px;
+}
+.quick-inner h5 {
+    font-size: 20px;
+    padding: 10px 0px 5px 0px;
+}
+.Enquiry-form h5 {
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+.form-group {
+    padding: 5px 0px;
+}
+.form-group .btn {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+/*==============================
+       **footer start***
+================================*/
+
+.footer {
+    padding: 14px 0px;
+}
+.copyright p {
+    font-size: 12px;
+}
+.copyright p span {
+    letter-spacing: 2px;
+}
+
+
+
+
+
+/* CSS end*/
+  
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+/* CSS start*/
+.top-bar {
+    padding: 10px 0px 0px 0px;
+}
+.top-bar .email {
+    font-size: 14px;
+}
+.top-bar .phone {
+    font-size: 14px;
+    text-align: left;
+}
+.header .navbar-toggler {
+    border: 1px solid #1a9bdc;
+    border-radius: 3px;
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 5px #1a9bdc;
+    background: #1a9bdc;
+}
+.header .navbar-toggler:focus .fa{
+  color: #fff;
+} 
+.header .navbar-toggler .fa{
+    color: #1a9bdc;
+    font-size: 30px;
+    font-weight: 400;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+.header .social-icon {
+    margin: 0px 0px 0px -30px;
+}
+.header .isStuck {
+    width: 75%;
+}
+
+/*==============================
+       **header manu start***
+================================*/
+
+
+
+.banner {
+    padding: 15px 0px;
+}
+.banner-inner {
+    padding: 15px 0px;
+}
+.banner h1 {
+    font-size: 19px;
+    width: 50%;
+    margin: 0px 0px 0px -50px;
+}
+.banner-inner p {
+    width: 55%;
+    font-size: 15px;
+    padding: 15px 0px 0px 0px;
+    margin: 4px 0px 0px -50px;
+}
+.banner-inner .btn-info {
+    padding: 10px 15px;
+    margin: 10px 0px 0px -50px;
+    font-size: 14px;
+}
+
+/*==============================
+       **feature start***
+================================*/
+
+
+
+.feature {
+    padding: 15px 0px;
+}
+.inner-feature {
+    padding: 15px;
+}
+.inner-feature .icon {
+    width: 10%;
+    height: 32%;
+    margin: 0px auto 12px;
+    padding: 19px 0px;
+}
+.inner-feature h2 {
+    font-size: 19px;
+    padding: 10px 0px;
+}
+.inner-feature p {
+    font-size: 14px;
+}
+.professional {
+    padding: 20px 0px 0px 0px;
+}
+.professional .title {
+    padding: 0px 0px 10px;
+}
+.professional .title h1 {
+    font-size: 22px;
+}
+.professional .title p {
+    padding: 5px 0px;
+    font-size: 14px;
+}
+.left-professional {
+    padding: 10px 0px 0px 0px;
+}
+.left-professional .img-icon {
+    padding: 0px 5px;
+    margin: -15px 0px 0px 5px;
+}
+.left-professional h2 {
+    font-size: 22px;
+    margin: 10px 0px 10px 3px;
+}
+.left-professional p {
+    font-size: 14px;
+    margin: 0px 0px 0ox 5px;
+    padding: 0px 0px 0px 5px;
+}
+.img-fluid {
+    max-width: 45%;
+}
+
+/*==============================
+       **fun-facts start***
+================================*/
+
+.fun-facts {
+    padding: 15px 0px;
+}
+.fun-facts .counter {
+    padding: 25px 0px 25px 0px;
+}
+.fun-facts .counter {
+    padding: 20px 0px 20px 20px;
+}
+.fun-facts .counter .img-logo {
+    margin: 0px 44px 0px 0px;
+    width: 12%;
+}
+.fun-facts .counter h1 {
+    font-size: 37px;
+    margin: 0px 40px 10px 0px;
+}
+.fun-facts .counter .img-fluid-line {
+    margin: 0px 38px 0px 0px;
+}
+.fun-facts .counter h6 {
+    font-size: 17px;
+    margin: 5px 0px 0px 100px;
+}
+
+/*==============================
+       **works start***
+================================*/
+
+.works{
+    padding: 20px 0px;
+}
+.title h1 {
+    font-size: 24px;
+    margin: 0px 0px 5px 0px;
+}
+.title p {
+    padding: 2px 0px;
+    font-size: 14px;
+}
+.works-box .img-box{
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+.works-box h5 {
+    font-size: 19px;
+    margin: 5px 0px 5px 0px;
+}
+.works-box h6 {
+    font-size: 14px;
+    margin: 0px 0px 5px 0px;
+}
+.works-box p {
+    padding: 0px 0px;
+    font-size: 14px;
+}
+.title-right h1 {
+    font-size: 24px;
+    margin: 0px 0px 5px 0px;
+}
+.title-right p {
+    padding: 2px 0px;
+    font-size: 14px;
+     width: 100%;
+}
+.work-right p {
+    padding: 10px 0px;
+    font-size: 14px;
+    width: 100%;
+}
+.works-bottom a {
+    padding: 10px 15px;
+    margin: 0px 0px 0px 0px;
+    font-size: 15px;
+}
+
+
+/*==============================
+       **gallery start***
+================================*/
+.gallery {
+    padding: 15px 0px;
+}
+.title {
+    padding: 0px 0px 5px;
+}
+.gallery .title h1 {
+    font-size: 24px;
+}
+.gallery .title p {
+    width: 102%;
+    font-size: 14px;
+}
+.gallery-box {
+    width: 110%;
+}
+.gallery-box .img-fluid {
+    margin: 0px 0px 5px 0px;
+}
+/*==============================
+       **team start***
+================================*/
+.team {
+    padding: 15px 0px;
+}
+.team .title h1 {
+    font-size: 24px;
+}
+.team .title p {
+    font-size: 14px;
+}
+.team-box {
+    padding: 10px 0px 0px 0px;
+}
+.team-box .img-fluid {
+    padding: 0px 35px;
+}
+.team-box h5 {
+    font-size: 17px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box h6 {
+    font-size: 18px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box .fa {
+    font-size: 16px;
+}
+/*==============================
+       **special-offer start***
+================================*/
+.special-offer {
+    padding: 10px 0px;
+}
+.left-box h1 {
+    font-size: 20px;
+    margin: 2px 0px 0px 0px;
+}
+.right-box .btn-info {
+    padding: 8px 18px;
+    margin: 15px 0px 5px 200px;
+    font-size: 13px;
+}
+/*==============================
+       **about-us start***
+================================*/
+.about-us {
+    padding: 15px 0px;
+}
+.inner-about-us h5 {
+    font-size: 22px;
+    padding: 10px 0px 5px 0px;
+}
+.sub-inner .contact .fa {
+    padding: 10px 0px 0px 0px;
+    font-size: 30px;
+}
+.sub-inner p {
+    margin: 10px 14px;
+    font-size: 14px;
+    padding: 0px 0px 0px 0px;
+    width: 37%;
+}
+.inner-about-us .fa {
+    font-size: 19px;
+    padding: 10px 25px 15px 0px;
+}
+.quick-inner h5 {
+    font-size: 22px;
+    padding: 10px 0px 5px 0px;
+}
+.Enquiry-form h5 {
+    font-size: 22px;
+    padding: 10px 0px 10px 0px;
+}
+.form-group {
+    padding: 5px 0px;
+}
+.form-group .btn {
+    padding: 12px 32px;
+    font-size: 13px;
+}
+/*==============================
+       **footer start***
+================================*/
+
+.footer {
+    padding: 15px 0px;
+}
+.copyright p {
+    font-size: 13px;
+}
+.copyright p span {
+    letter-spacing: 2px;
+}
+
+/* CSS end*/
+  
+}
+
+
+
+
+
+/* CSS end*/
+  
+}
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+/* CSS start*/
+
+
+/*==============================
+       **top-bar start***
+================================*/
+.top-bar .email {
+    font-size: 10px;
+}
+.top-bar .phone {
+    font-size: 10px;
+    text-align: left;
+    margin: -4px 0px 0px 0px;
+}
+
+.header .navbar-toggler {
+    border: 1px solid #1a9bdc;
+    border-radius: 3px;
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 5px #1a9bdc;
+    background: #1a9bdc;
+}
+.header .navbar-toggler:focus .fa{
+  color: #fff;
+} 
+.header .navbar-toggler .fa{
+    color: #1a9bdc;
+    font-size: 30px;
+    font-weight: 400;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+.header .social-icon {
+    margin: 0px 0px 0px -30px;
+}
+.header .isStuck {
+    width: 75%;
+}
+
+/*==============================
+       **header manu start***
+================================*/
+
+
+
+.banner {
+    padding: 10px 0px;
+}
+.banner-inner {
+    padding: 10px 0px;
+}
+.banner h1 {
+    font-size: 17px;
+    width: 50%;
+    margin: 0px 0px 0px -50px;
+}
+.banner-inner p {
+    width: 55%;
+    font-size: 13px;
+    padding: 5px 0px 0px 0px;
+    margin: 4px 0px 0px -50px;
+}
+.banner-inner .btn-info {
+    padding: 5px 10px;
+    margin: 4px 0px 0px -50px;
+    font-size: 13px;
+}
+
+/*==============================
+       **feature start***
+================================*/
+
+
+
+.feature {
+    padding: 10px 0px;
+}
+.inner-feature {
+    padding: 10px;
+}
+.inner-feature .icon {
+    width: 16%;
+    height: 28%;
+    margin: 0px auto 12px;
+    padding: 17px 0px;
+}
+.inner-feature h2 {
+    font-size: 17px;
+    padding: 10px 0px;
+}
+.inner-feature p {
+    font-size: 13px;
+}
+.professional {
+    padding: 20px 0px 0px 0px;
+}
+.professional .title {
+    padding: 0px 0px 10px;
+}
+.professional .title h1 {
+    font-size: 20px;
+}
+.professional .title p {
+    padding: 5px 0px;
+    font-size: 13px;
+}
+.left-professional {
+    padding: 10px 0px 0px 0px;
+}
+.left-professional .img-icon {
+    padding: 0px 1px;
+    margin: -15px 0px 0px 5px;
+}
+.left-professional h2 {
+    font-size: 20px;
+    margin: 10px 0px 10px 3px;
+}
+.left-professional p {
+    font-size: 13px;
+    margin: 0px 0px 0ox 5px;
+    padding: 0px 0px 0px 5px;
+}
+.img-fluid {
+    max-width: 45%;
+}
+
+/*==============================
+       **fun-facts start***
+================================*/
+
+.fun-facts {
+    padding: 10px 0px;
+}
+.fun-facts .counter {
+    padding: 20px 0px 20px 0px;
+}
+.fun-facts .counter {
+    padding: 20px 0px 20px 20px;
+}
+.fun-facts .counter .img-logo {
+    margin: 0px 44px 0px 0px;
+    width: 12%;
+}
+.fun-facts .counter h1 {
+    font-size: 35px;
+    margin: 0px 40px 10px 0px;
+}
+.fun-facts .counter .img-fluid-line {
+    margin: 0px 38px 0px 0px;
+}
+.fun-facts .counter h6 {
+    font-size: 15px;
+    margin: 5px 0px 0px 78px;
+}
+
+/*==============================
+       **works start***
+================================*/
+
+.works{
+    padding: 15px 0px;
+}
+.title h1 {
+    font-size: 22px;
+    margin: 0px 0px 5px 0px;
+}
+.title p {
+    padding: 2px 0px;
+    font-size: 13px;
+}
+.works-box .img-box{
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+.works-box h5 {
+    font-size: 17px;
+    margin: 5px 0px 5px 0px;
+}
+.works-box h6 {
+    font-size: 12px;
+    margin: 0px 0px 5px 0px;
+}
+.works-box p {
+    padding: 0px 0px;
+    font-size: 13px;
+}
+.title-right h1 {
+    font-size: 22px;
+    margin: 0px 0px 5px 0px;
+}
+.title-right p {
+    padding: 2px 0px;
+    font-size: 13px;
+}
+.work-right p {
+    padding: 10px 0px;
+    font-size: 13px;
+}
+.works-bottom a {
+    padding: 5px 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+}
+
+
+/*==============================
+       **gallery start***
+================================*/
+.gallery {
+    padding: 10px 0px;
+}
+.title {
+    padding: 0px 0px 5px;
+}
+.gallery .title h1 {
+    font-size: 22px;
+}
+.gallery .title p {
+    width: 102%;
+    font-size: 13px;
+}
+.gallery-box {
+    width: 110%;
+}
+.gallery-box .img-fluid {
+    margin: 0px 0px 5px 0px;
+}
+/*==============================
+       **team start***
+================================*/
+.team {
+    padding: 10px 0px;
+}
+.team .title h1 {
+    font-size: 22px;
+}
+.team .title p {
+    font-size: 13px;
+}
+.team-box {
+    padding: 10px 0px 0px 0px;
+}
+.team-box .img-fluid {
+    padding: 0px 35px;
+}
+.team-box h5 {
+    font-size: 15px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box h6 {
+    font-size: 16px;
+    margin: 5px 0px 5px 0px;
+}
+.team-box .fa {
+    font-size: 15px;
+}
+.special-offer {
+    padding: 5px 0px;
+}
+.left-box h1 {
+    font-size: 16px;
+    margin: 2px 0px 0px 0px;
+}
+.right-box .btn-info {
+    padding: 6px 16px;
+    margin: 15px 0px 5px 150px;
+    font-size: 12px;
+}
+/*==============================
+       **about-us start***
+================================*/
+.about-us {
+    padding: 10px 0px;
+}
+.inner-about-us h5 {
+    font-size: 20px;
+    padding: 10px 0px 5px 0px;
+}
+.sub-inner .contact .fa {
+    padding: 10px 0px 0px 0px;
+    font-size: 30px;
+}
+.sub-inner p {
+    margin: 10px 14px;
+    font-size: 13px;
+    padding: 0px 0px 0px 0px;
+    width: 37%;
+}
+.inner-about-us .fa {
+    font-size: 19px;
+    padding: 10px 25px 15px 0px;
+}
+.quick-inner h5 {
+    font-size: 20px;
+    padding: 10px 0px 5px 0px;
+}
+.Enquiry-form h5 {
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+.form-group {
+    padding: 5px 0px;
+}
+.form-group .btn {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+/*==============================
+       **footer start***
+================================*/
+
+.footer {
+    padding: 14px 0px;
+}
+.copyright p {
+    font-size: 12px;
+}
+.copyright p span {
+    letter-spacing: 2px;
+}
+
+
+
+
+
+/* CSS end*/
+  
+}
+
